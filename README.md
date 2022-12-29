@@ -40,7 +40,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api) | 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
