@@ -40,9 +40,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-https://github-readme-stats.vercel.app/api?username=akashcodes7&show_icons=true
-|--|--
+![Jokes Card](https://readme-jokes.vercel.app/api) https://github-readme-stats.vercel.app/api?username=akashcodes7&show_icons=true
+
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
