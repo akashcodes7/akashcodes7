@@ -6,8 +6,7 @@
 
 **Currently Working On Stacks** 
 ##
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
 
