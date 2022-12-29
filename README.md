@@ -44,6 +44,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=akashcodes7)
+
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
