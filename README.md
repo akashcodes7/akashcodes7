@@ -4,6 +4,11 @@
 :wave: Hello! I'm Programmer and love building softwares, automating my workflows, self-hosting all my services on personal servers, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
 
+**Currently Working On Stacks**
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)| [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/) | [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) | [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) | 
+
+
+
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
