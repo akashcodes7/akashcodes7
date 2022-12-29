@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Akash Kumar](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
+# 👨🏻‍💻 [Akash](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
