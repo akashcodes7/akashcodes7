@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Akash](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
 
 
-:wave: Hello! I'm Programmer and love building softwares, automating my workflows, self-hosting all my services on personal servers, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
+:wave: Hello! I'm Programmer and enjoy building software, automating my workflows, and self-hosting all my services on personal servers. I use Notion to manage my entire life and I love reading newsletters about system design choices made by major tech companies. I believe in following best practices from the start in order to ensure maintainability, performance, and security in my projects.
 
 
 ## Currently Working On Stack 💻 🧑🏻‍💻 🟢
