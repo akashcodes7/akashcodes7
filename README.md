@@ -1,8 +1,11 @@
 # 👨🏻‍💻 [Akash](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
 
 
-:wave: Hello! I'm Programmer and enjoy building software, automating my workflows, and self-hosting all my services on personal servers. I use Notion to manage my entire life and I love reading newsletters about system design choices made by major tech companies. I believe in following best practices from the start in order to ensure maintainability, performance, and security in my projects.
+:wave: Hello! As a skilled software developer with experience in web development, API configuration, and deployment using CI/CD pipelines, as well as expertise in database and system design and software architecture, I bring a wealth of technical knowledge and expertise to every project I work on. Whether I'm building a new application from scratch or optimizing an existing system, I'm always focused on delivering the best possible results for my clients. I also have a strong track record of success in freelancing, having worked with a variety of clients across different industries and project types.
 
+In addition to my technical skills, I also have experience as a technical recruiter, which gives me a unique perspective on the industry and the talent pool available to businesses. I understand the importance of finding the right fit for each position, and I'm committed to helping businesses identify and attract the best candidates for their needs.
+
+Overall, my profile showcases a strong combination of technical expertise and industry knowledge, making me a valuable asset to any team or project.
 
 ## Currently Working On Stacks 👇🏽
 ##
