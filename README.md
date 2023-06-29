@@ -1,9 +1,9 @@
 # 👨🏻‍💻 [Akash](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
 
 
-:wave: Hello! As a skilled software developer with experience in web development, API configuration, and deployment using CI/CD pipelines, as well as expertise in database and system design and software architecture, I bring a wealth of technical knowledge and expertise to every project I work on. Whether I'm building a new application from scratch or optimizing an existing system, I'm always focused on delivering the best possible results for my clients. I also have a strong track record of success in freelancing, having worked with a variety of clients across different industries and project types.
+:wave: Hello! I’m a software engineer from India with a strong background in computer science and with more than year of professional experience.
 
-In addition to my technical skills, I also have experience as a technical recruiter, which gives me a unique perspective on the industry and the talent pool available to businesses. I understand the importance of finding the right fit for each position, and I'm committed to helping businesses identify and attract the best candidates for their needs.
+I'm passionate about developing products that are easy-to-use, intelligent, and well-architected. I'm an advocate of writing a well-crafted code that follows best design practices. I seek to bring the same level of passion and completeness to teaching.
 
 Overall, my profile showcases a strong combination of technical expertise and industry knowledge, making me a valuable asset to any team or project.
 
