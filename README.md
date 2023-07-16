@@ -1,11 +1,11 @@
 # 👨🏻‍💻 [Akash](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
 
 
-:wave: Hello! Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
+:wave: Hello! I am Akash, a software engineer with years of experience working in various industries. Software Engineering is not only my profession but also my passion and hobby. I'm always up for a discussion on software, business, and other opportunities.
 
+Currently, I'm immersed in developing a full-fledged application that enhances enterprise applications with high potentials and large databases 🕸️. Additionally, I enjoy building my home lab 🚀 to explore new technologies and expand my skill set.
 
-I'm passionate about developing products that are easy-to-use, intelligent, and well-architected. I'm an advocate of writing a well-crafted code that follows best design practices. I seek to bring the same level of passion and completeness to teaching.
-
+My goal is to develop products that are easy-to-use, intelligent, and well-architected. I am an advocate of writing well-crafted code that follows best design practices. Moreover, I am enthusiastic about sharing my knowledge and empowering others to succeed in the world of software engineering.
 Overall, my profile showcases a strong combination of technical expertise and industry knowledge, making me a valuable asset to any team or project.
 
 ## Currently Working On Stacks 👇🏽
