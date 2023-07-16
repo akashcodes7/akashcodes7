@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Akash](https://akashstack.in) [@its_akashkr](https://twitter.com/its_akashkr)
 
 
-:wave: Hello! I’m a Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
+:wave: Hello! Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
 
 
 I'm passionate about developing products that are easy-to-use, intelligent, and well-architected. I'm an advocate of writing a well-crafted code that follows best design practices. I seek to bring the same level of passion and completeness to teaching.
